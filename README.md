@@ -1,4 +1,4 @@
-E-Commerce Consumer Behavior and Logistics Analysis (Turkey)
+# E-Commerce Consumer Behavior and Logistics Analysis (Turkey)
 
 📌 Project Overview
 This project demonstrates a full data analytics workflow, transforming a raw dataset into a structured 5,000-row source of truth focused on the Turkish market. The goal is to identify high-value customer segments, delivery bottlenecks, and purchasing trends across major Turkish cities.
